@@ -12,9 +12,22 @@ To run the programs in this repository, you need to have the following software 
 You can choose any C compiler and text editor/IDE of your preference.
 Recommended Online IDE https://pranavkd-code.hf.space/
 
+## Checklist (Updated)
+
+- [x] [Binary Search](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/BINARY%20SEARCH.c)
+- [x] [Linear Search](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/LINEAR%20SEARCH.c)
+- [x] [Array Operations](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/ARRAY%20OPERATIONS.c)
+- [x] [Polynomial Addition](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/POLYNOMIAL%20ADDITION%20USING%20ARRAY.c)
+- [x] [Sparse Matrix](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/SPARSE%20MATRIX%20REPRESENTATION.c)
+- [x] [Queue](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/queue.c)
+- [x] [Circular Queue](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/circularqueue.c)
+- [x] [Stack](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/stack.c)
+- [x] [Infix To Postfix](https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3/blob/main/infixToPostfix.c)
+
+
 ## Installation
 
-To install the programs, you have two options:
+To install the programs: 
 
 ### Clone the repository
 
