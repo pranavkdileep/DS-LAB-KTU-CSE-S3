@@ -45,3 +45,9 @@ You can clone the repository using Git by running the following command in your 
 
 ```bash
 git clone https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3.git
+```
+## Acknowledgements
+
+* [Pranav k dileep](https://github.com/pranavkdileep)
+* [n0rmh3ll](https://github.com/n0rmh3ll)
+* [twoside](https://github.com/Tw0side)
