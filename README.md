@@ -51,3 +51,4 @@ git clone https://github.com/pranavkdileep/DS-LAB-KTU-CSE-S3.git
 * [Pranav k dileep](https://github.com/pranavkdileep)
 * [n0rmh3ll](https://github.com/n0rmh3ll)
 * [twoside](https://github.com/Tw0side)
+* [Muhammed Irfan](https://github.com/muhammmedirfan)
